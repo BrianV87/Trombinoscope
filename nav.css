@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+nav{
+    background-color: #2B2929;
+ margin:0;
+ padding: 0;
+ height:5rem;
+ width: 100%;
+ display: flex;
+}
+
+
+ ul{
+    padding: 0;
+    width: 100%;
+   display:inline-flex ;
+    justify-content: space-around;
+     color: white;
+     }
+
+     
+    li{
+display: flex;
+align-items: flex-end;
+justify-content: space-between;
+font-size: xx-large;
+cursor: pointer;
+
+    }
