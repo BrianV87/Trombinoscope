@@ -188,10 +188,10 @@ nav {
     font-size: 20px;
 } 
 
-.btn-primary{
- position: absolute;
- bottom: -23%;
-}
-
+.btn-primary {
+        position: relative;
+        right: 20px;
+        bottom: -125%;
+      }
 }
 
